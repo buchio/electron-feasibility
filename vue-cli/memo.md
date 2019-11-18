@@ -9,3 +9,5 @@
        
     cd NAME
     vue add electron-builder
+
+    npm run electron:build -- -mwl
